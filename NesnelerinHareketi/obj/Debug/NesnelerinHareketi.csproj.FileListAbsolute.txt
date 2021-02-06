@@ -1,0 +1,10 @@
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.exe.config
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.exe
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\bin\Debug\NesnelerinHareketi.pdb
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csprojAssemblyReference.cache
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.Form1.resources
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.Properties.Resources.resources
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csproj.GenerateResource.cache
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.csproj.CoreCompileInputs.cache
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.exe
+C:\Users\Batı\source\repos\NesnelerinHareketi\NesnelerinHareketi\obj\Debug\NesnelerinHareketi.pdb
